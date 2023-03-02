@@ -1,0 +1,2 @@
+body_2d_keypoint/topdown_heatmap/coco/td-hm_hrnet-w32_8xb64-210e_coco-256x192.py
+body_2d_keypoint/simcc/coco/simcc_res50_8xb64-210e_coco-256x192.py
